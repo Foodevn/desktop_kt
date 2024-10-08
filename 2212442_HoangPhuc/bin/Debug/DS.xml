@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <DocGia>
+    <MaDocGia>DG001</MaDocGia>
+    <TenDocGia>Hoang Phuc</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat1</DiaChiDocGia>
+  </DocGia>
+  <DocGia>
+    <MaDocGia>DG002</MaDocGia>
+    <TenDocGia>Hoang Phuc1</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat2</DiaChiDocGia>
+  </DocGia>
+  <DocGia>
+    <MaDocGia>DG003</MaDocGia>
+    <TenDocGia>Hoang Phuc2</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat3</DiaChiDocGia>
+  </DocGia>
+  <DocGia>
+    <MaDocGia>DG004</MaDocGia>
+    <TenDocGia>Hoang Phuc3</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat4</DiaChiDocGia>
+  </DocGia>
+  <DocGia>
+    <MaDocGia>DG001</MaDocGia>
+    <TenDocGia>Hoang Phuc</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat1</DiaChiDocGia>
+  </DocGia>
+  <DocGia>
+    <MaDocGia>DG002</MaDocGia>
+    <TenDocGia>Hoang Phuc1</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat2</DiaChiDocGia>
+  </DocGia>
+  <DocGia>
+    <MaDocGia>DG003</MaDocGia>
+    <TenDocGia>Hoang Phuc2</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat3</DiaChiDocGia>
+  </DocGia>
+  <DocGia>
+    <MaDocGia>DG004</MaDocGia>
+    <TenDocGia>Hoang Phuc3</TenDocGia>
+    <SDTDocGia>09217644</SDTDocGia>
+    <DiaChiDocGia>da lat4</DiaChiDocGia>
+  </DocGia>
+</ds>
